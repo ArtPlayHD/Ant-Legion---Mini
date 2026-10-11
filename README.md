@@ -11,7 +11,7 @@ Ant Legion Mini - интересная игра на Python,в которую м
 <img width="1360" height="768" alt="Снимок экрана (117)" src="https://github.com/user-attachments/assets/c0565f5c-af79-4fea-8527-190152a4ef9d" />
 Стройте здания и увеличивайте мощь!
 <img width="1360" height="768" alt="Снимок экрана (120)" src="https://github.com/user-attachments/assets/f4e566ab-82a2-4b8e-9db5-4250a6978be2" />
-Ваш профиль - ваша гордость!<img width="1360" height="768" alt="Снимок экрана (119)" src="https://github.com/user-attachments/assets/cb35459c-13f8-49a6-9fcb-6bf13252f53f" />
+Ваш профиль - ваша гордость!<img width="1360" height="768" alt="Снимок экрана (121)" src="https://github.com/user-attachments/assets/cb35459c-13f8-49a6-9fcb-6bf13252f53f" />
 
 
 Нападайте на ботов - получайте ресурсы!
